@@ -1,0 +1,77 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/1Gw61J3/Rectangle-1.png",
+      "course": "Web Development Fundamentals",
+      "details": "This course covers the basics of web development, including HTML, CSS, and JavaScript. Perfect for beginners.",
+      "price": "Price : 299",
+      "credit": "3"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/x7cWNvY/1-1.png",
+      "course": "Python Programming for Beginners",
+      "details": "Learn the fundamentals of Python programming, suitable for those new to coding.",
+      "price": "Price : 249",
+      "credit": "4"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/XVLrWSM/Rectangle-9.png",
+      "course": "Data Science with R",
+      "details": "Explore data science using the R programming language, including data analysis and visualization.",
+      "price": "Price : 399",
+      "credit": "5"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/sb9zvJD/Rectangle-3.png",
+      "course": "JavaScript Application Development",
+      "details": "Master JavaScript for web and application development, including popular frameworks.",
+      "price": 349,
+      "credit": "4"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/N7scX0W/1-2.png",
+      "course": "Machine Learning and AI",
+      "details": "Dive into the world of machine learning and artificial intelligence, with hands-on projects.",
+      "price": "Price : 499",
+      "credit": "6"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/WfwQbY3/Rectangle-5.png",
+      "course": "Cybersecurity Fundamentals",
+      "details": "Get started with cybersecurity, covering essential concepts and best practices.",
+      "price": "Price : 239",
+      "credit": "3"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/y6zq3nQ/Rectangle-6.png",
+      "course": "Mobile App Development with React Native",
+      "details": "Learn to build cross-platform mobile apps with React Native and JavaScript.",
+      "price": "Price : 220",
+      "credit": "2"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/CBxpXGJ/gre.png",
+      "course": "GRE, IELTS, Article & Content Writing by A K M Azhar",
+      "details": "Embark on a journey to unlock the secrets of powerful four skills.",
+      "price": "Price : 310",
+      "credit": "2"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/2nFck62/1-4.png",
+      "course": "Data Structures and Algorithms in C++",
+      "details": "Master data structures and algorithms in C++ for efficient programming.",
+      "price": "Price : 479",
+      "credit": "5"
+    }
+  ]
+  }
+  

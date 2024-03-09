@@ -1,0 +1,11 @@
+/* .container{
+  color: green;
+} */
+
+.cart{
+  width: 350px;
+  height: 550px;
+  border: 8px solid rgb(240, 217, 217);
+  border-radius: 5px;
+  margin-top: 35px;
+}
